@@ -1,3 +1,3 @@
 # landing-page
 
-A site project focusing on the CSS flexbox of a landing page, using a given reference.
+A site project of a landing page focusing on the CSS flexbox, using a given reference.
